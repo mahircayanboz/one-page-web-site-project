@@ -1,4 +1,3 @@
-# one-page-web-site-project
 # One Page Website Project
 
 This is a simple one-page website created using HTML, CSS, and JavaScript. It demonstrates a clean, responsive design with the following sections:
